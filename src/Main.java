@@ -42,7 +42,7 @@ class BallenaAzul implements Nadador {
         this.edad = e;
     }
     public float nadar(float m) {
-        if (edad >= 5) return m/(10/3.6f);
+        if (edad >= 7) return m/(10/3.6f);
         else return m/(13/3.6f);
     }
 }
