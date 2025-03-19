@@ -9,7 +9,7 @@ public class Main {
         TriAtleta t = new TriAtleta(10);
 
         System.out.println("Delfin: " + d.nadar(100) + "s");
-        System.out.println("BallenaAzul 1: " + b1.nadar(100) + "s");
+        System.out.println("BallenaMorada 1: " + b1.nadar(100) + "s");
         System.out.println("BallenaAzul 2: " + b2.nadar(100) + "s");
         System.out.println("TriAtleta: " + t.nadar(100) + "s");
     }
